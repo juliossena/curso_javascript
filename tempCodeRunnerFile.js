@@ -1,1 +1,1 @@
-ado.push(contarCaracters(data));
+   console.log('QUALQUER OUTRO AQUI')
