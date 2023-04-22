@@ -1,1 +1,1 @@
-   console.log('QUALQUER OUTRO AQUI')
+resultado
