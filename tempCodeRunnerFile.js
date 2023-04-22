@@ -1,2 +1,1 @@
-
-}
+ado.push(contarCaracters(data));
